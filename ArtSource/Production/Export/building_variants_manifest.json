@@ -1,0 +1,134 @@
+{
+  "StiltHouse": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.17000000178813934,
+          0.0949999988079071,
+          0.03999999910593033,
+          1.0
+        ],
+        "roughness": 0.8799999952316284,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Thatch_Reed",
+        "base": [
+          0.25999999046325684,
+          0.23000000417232513,
+          0.10000000149011612,
+          1.0
+        ],
+        "roughness": 0.9800000190734863,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      6.115000247955322,
+      7.561361312866211,
+      5.095308780670166
+    ]
+  },
+  "VillageStore": {
+    "materials": [
+      {
+        "name": "Village_Plaster",
+        "base": [
+          0.4300000071525574,
+          0.3199999928474426,
+          0.20000000298023224,
+          1.0
+        ],
+        "roughness": 0.9800000190734863,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Shutter_Blue",
+        "base": [
+          0.06499999761581421,
+          0.1599999964237213,
+          0.1899999976158142,
+          1.0
+        ],
+        "roughness": 0.8399999737739563,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.17000000178813934,
+          0.0949999988079071,
+          0.03999999910593033,
+          1.0
+        ],
+        "roughness": 0.8799999952316284,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Roof_Terracotta",
+        "base": [
+          0.23999999463558197,
+          0.07500000298023224,
+          0.02800000086426735,
+          1.0
+        ],
+        "roughness": 0.9399999976158142,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      6.699999809265137,
+      6.496079444885254,
+      4.2168755531311035
+    ]
+  },
+  "SupplyShed": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.17000000178813934,
+          0.0949999988079071,
+          0.03999999910593033,
+          1.0
+        ],
+        "roughness": 0.8799999952316284,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Shed_RustedRoof",
+        "base": [
+          0.23000000417232513,
+          0.14000000059604645,
+          0.07999999821186066,
+          1.0
+        ],
+        "roughness": 0.8600000143051147,
+        "metallic": 0.550000011920929,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      5.289999961853027,
+      4.442575454711914,
+      3.588874340057373
+    ]
+  }
+}

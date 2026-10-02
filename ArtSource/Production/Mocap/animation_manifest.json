@@ -1,0 +1,89 @@
+{
+  "bones": 52,
+  "animations": {
+    "Idle": {
+      "duration_s": 3.0,
+      "source_speed_m_s": 0,
+      "source": "authored rig animation",
+      "loop": true
+    },
+    "WalkForward": {
+      "duration_s": 1.1,
+      "source_speed_m_s": 1.3716179230706453,
+      "source": "CMU 07_01",
+      "loop": true
+    },
+    "WalkBack": {
+      "duration_s": 1.1,
+      "source_speed_m_s": 1.3716179230706453,
+      "source": "CMU 07_01",
+      "loop": true
+    },
+    "WalkLeft": {
+      "duration_s": 1.1,
+      "source_speed_m_s": 1.3716179230706453,
+      "source": "CMU 07_01",
+      "loop": true
+    },
+    "WalkRight": {
+      "duration_s": 1.1,
+      "source_speed_m_s": 1.3716179230706453,
+      "source": "CMU 07_01",
+      "loop": true
+    },
+    "RunForward": {
+      "duration_s": 0.7333333333333333,
+      "source_speed_m_s": 3.6383591131383266,
+      "source": "CMU 09_01",
+      "loop": true
+    },
+    "RunBack": {
+      "duration_s": 0.7333333333333333,
+      "source_speed_m_s": 3.6383591131383266,
+      "source": "CMU 09_01",
+      "loop": true
+    },
+    "RunLeft": {
+      "duration_s": 0.7333333333333333,
+      "source_speed_m_s": 3.6383591131383266,
+      "source": "CMU 09_01",
+      "loop": true
+    },
+    "RunRight": {
+      "duration_s": 0.7333333333333333,
+      "source_speed_m_s": 3.6383591131383266,
+      "source": "CMU 09_01",
+      "loop": true
+    },
+    "Fire": {
+      "duration_s": 0.26666666666666666,
+      "source_speed_m_s": 0,
+      "source": "authored rig animation",
+      "loop": false
+    },
+    "Reload": {
+      "duration_s": 1.7,
+      "source_speed_m_s": 0,
+      "source": "authored rig animation",
+      "loop": false
+    },
+    "Hit": {
+      "duration_s": 0.5,
+      "source_speed_m_s": 0,
+      "source": "authored rig animation",
+      "loop": false
+    },
+    "Dodge": {
+      "duration_s": 0.7,
+      "source_speed_m_s": 0,
+      "source": "authored rig animation",
+      "loop": false
+    },
+    "Death": {
+      "duration_s": 1.5,
+      "source_speed_m_s": 0,
+      "source": "authored rig animation",
+      "loop": false
+    }
+  }
+}

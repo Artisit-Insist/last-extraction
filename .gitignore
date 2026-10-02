@@ -1,0 +1,26 @@
+# Unreal-generated local files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+*.xcworkspace/
+*.xcodeproj/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+
+# Local editor backups and caches
+.DS_Store
+__pycache__/
+*.pyc
+*.blend1
+*.blend2
+
+# Credentials and machine-local settings
+.env
+.env.*
+!.env.example

@@ -1,0 +1,334 @@
+{
+  "IntelDesk": {
+    "materials": [
+      {
+        "name": "Mission_Steel",
+        "base": [
+          0.09000000357627869,
+          0.10499999672174454,
+          0.10999999940395355,
+          1.0
+        ],
+        "roughness": 0.3799999952316284,
+        "metallic": 0.800000011920929,
+        "textures": {}
+      },
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.15000000596046448,
+          0.08500000089406967,
+          0.03999999910593033,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Mission_Paper",
+        "base": [
+          0.6499999761581421,
+          0.6200000047683716,
+          0.41999998688697815,
+          1.0
+        ],
+        "roughness": 0.949999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Ink",
+        "base": [
+          0.05000000074505806,
+          0.11999999731779099,
+          0.10000000149011612,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Red",
+        "base": [
+          0.30000001192092896,
+          0.03500000014901161,
+          0.01600000075995922,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Olive",
+        "base": [
+          0.10499999672174454,
+          0.12999999523162842,
+          0.06599999964237213,
+          1.0
+        ],
+        "roughness": 0.6700000166893005,
+        "metallic": 0.3499999940395355,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Rubber",
+        "base": [
+          0.017999999225139618,
+          0.02199999988079071,
+          0.017999999225139618,
+          1.0
+        ],
+        "roughness": 0.9300000071525574,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Glass",
+        "base": [
+          0.07000000029802322,
+          0.15000000596046448,
+          0.10000000149011612,
+          1.0
+        ],
+        "roughness": 0.2199999988079071,
+        "metallic": 0.30000001192092896,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      1.8799998760223389,
+      1.0499999523162842,
+      2.4900293350219727
+    ]
+  },
+  "RadioStation": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.15000000596046448,
+          0.08500000089406967,
+          0.03999999910593033,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Mission_Steel",
+        "base": [
+          0.09000000357627869,
+          0.10499999672174454,
+          0.10999999940395355,
+          1.0
+        ],
+        "roughness": 0.3799999952316284,
+        "metallic": 0.800000011920929,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Olive",
+        "base": [
+          0.10499999672174454,
+          0.12999999523162842,
+          0.06599999964237213,
+          1.0
+        ],
+        "roughness": 0.6700000166893005,
+        "metallic": 0.3499999940395355,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Rubber",
+        "base": [
+          0.017999999225139618,
+          0.02199999988079071,
+          0.017999999225139618,
+          1.0
+        ],
+        "roughness": 0.9300000071525574,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Paper",
+        "base": [
+          0.6499999761581421,
+          0.6200000047683716,
+          0.41999998688697815,
+          1.0
+        ],
+        "roughness": 0.949999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Glass",
+        "base": [
+          0.07000000029802322,
+          0.15000000596046448,
+          0.10000000149011612,
+          1.0
+        ],
+        "roughness": 0.2199999988079071,
+        "metallic": 0.30000001192092896,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      1.758155107498169,
+      1.2221331596374512,
+      4.6095733642578125
+    ]
+  },
+  "FieldGenerator": {
+    "materials": [
+      {
+        "name": "Mission_Steel",
+        "base": [
+          0.09000000357627869,
+          0.10499999672174454,
+          0.10999999940395355,
+          1.0
+        ],
+        "roughness": 0.3799999952316284,
+        "metallic": 0.800000011920929,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Olive",
+        "base": [
+          0.10499999672174454,
+          0.12999999523162842,
+          0.06599999964237213,
+          1.0
+        ],
+        "roughness": 0.6700000166893005,
+        "metallic": 0.3499999940395355,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Rubber",
+        "base": [
+          0.017999999225139618,
+          0.02199999988079071,
+          0.017999999225139618,
+          1.0
+        ],
+        "roughness": 0.9300000071525574,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Paper",
+        "base": [
+          0.6499999761581421,
+          0.6200000047683716,
+          0.41999998688697815,
+          1.0
+        ],
+        "roughness": 0.949999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Red",
+        "base": [
+          0.30000001192092896,
+          0.03500000014901161,
+          0.01600000075995922,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Field_Brass",
+        "base": [
+          0.33000001311302185,
+          0.20999999344348907,
+          0.05999999865889549,
+          1.0
+        ],
+        "roughness": 0.3499999940395355,
+        "metallic": 0.800000011920929,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      2.6523494720458984,
+      1.7846972942352295,
+      2.072999954223633
+    ]
+  },
+  "ArmoredPatrol": {
+    "materials": [
+      {
+        "name": "Mission_Olive",
+        "base": [
+          0.10499999672174454,
+          0.12999999523162842,
+          0.06599999964237213,
+          1.0
+        ],
+        "roughness": 0.6700000166893005,
+        "metallic": 0.3499999940395355,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Rubber",
+        "base": [
+          0.017999999225139618,
+          0.02199999988079071,
+          0.017999999225139618,
+          1.0
+        ],
+        "roughness": 0.9300000071525574,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Steel",
+        "base": [
+          0.09000000357627869,
+          0.10499999672174454,
+          0.10999999940395355,
+          1.0
+        ],
+        "roughness": 0.3799999952316284,
+        "metallic": 0.800000011920929,
+        "textures": {}
+      },
+      {
+        "name": "Mission_Paper",
+        "base": [
+          0.6499999761581421,
+          0.6200000047683716,
+          0.41999998688697815,
+          1.0
+        ],
+        "roughness": 0.949999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      4.296000003814697,
+      2.532020092010498,
+      3.0707552433013916
+    ]
+  }
+}

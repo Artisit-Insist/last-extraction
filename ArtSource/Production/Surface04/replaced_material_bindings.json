@@ -1,0 +1,161 @@
+{
+  "AirDefenseLauncher": [
+    "/Game/Production/Materials/M_Radar_Olive.M_Radar_Olive",
+    "/Game/Production/Materials/M_Field_Rubber.M_Field_Rubber",
+    "/Game/Production/Materials/M_Weathered_Iron.M_Weathered_Iron"
+  ],
+  "ArmoredPatrol": [
+    "/Game/Production/Materials/M_Mission_Olive.M_Mission_Olive",
+    "/Game/Production/Materials/M_Mission_Rubber.M_Mission_Rubber",
+    "/Game/Production/Materials/M_Mission_Steel.M_Mission_Steel",
+    "/Game/Production/Materials/M_Mission_Paper.M_Mission_Paper"
+  ],
+  "BridgeGateFrame": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel"
+  ],
+  "BridgeGateLeaf": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel"
+  ],
+  "BridgeWinch": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel",
+    "/Game/Production/Materials/M_Bridge_Red.M_Bridge_Red"
+  ],
+  "CableReel": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Field_Rubber.M_Field_Rubber",
+    "/Game/Production/Materials/M_Weathered_Iron.M_Weathered_Iron"
+  ],
+  "Clothesline": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Canvas_Tan.M_Canvas_Tan",
+    "/Game/Production/Materials/M_Washed_Cloth_Cream.M_Washed_Cloth_Cream",
+    "/Game/Production/Materials/M_Washed_Cloth_Blue.M_Washed_Cloth_Blue"
+  ],
+  "ConcreteBunker": [
+    "/Game/Production/Materials/M_Fortress_Concrete.M_Fortress_Concrete"
+  ],
+  "FieldGenerator": [
+    "/Game/Production/Materials/M_Mission_Steel.M_Mission_Steel",
+    "/Game/Production/Materials/M_Mission_Olive.M_Mission_Olive",
+    "/Game/Production/Materials/M_Mission_Rubber.M_Mission_Rubber",
+    "/Game/Production/Materials/M_Mission_Paper.M_Mission_Paper",
+    "/Game/Production/Materials/M_Mission_Red.M_Mission_Red",
+    "/Game/Production/Materials/M_Field_Brass.M_Field_Brass"
+  ],
+  "FieldHangar": [
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel",
+    "/Game/Production/Materials/M_Hangar_Galvanized.M_Hangar_Galvanized"
+  ],
+  "FieldRifle": [
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel",
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Field_Rubber.M_Field_Rubber",
+    "/Game/Production/Materials/M_Field_Brass.M_Field_Brass"
+  ],
+  "FishingNetRack": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Canvas_Tan.M_Canvas_Tan"
+  ],
+  "FortressWall": [
+    "/Game/Production/Materials/M_Fortress_Concrete.M_Fortress_Concrete",
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel"
+  ],
+  "FuelStation": [
+    "/Game/Production/Materials/M_Fuel_Silver.M_Fuel_Silver",
+    "/Game/Production/Materials/M_Weathered_Iron.M_Weathered_Iron",
+    "/Game/Production/Materials/M_Fuel_Red.M_Fuel_Red",
+    "/Game/Production/Materials/M_Field_Rubber.M_Field_Rubber"
+  ],
+  "HutRoof": [
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel"
+  ],
+  "IntelDesk": [
+    "/Game/Production/Materials/M_Mission_Steel.M_Mission_Steel",
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Mission_Paper.M_Mission_Paper",
+    "/Game/Production/Materials/M_Mission_Ink.M_Mission_Ink",
+    "/Game/Production/Materials/M_Mission_Red.M_Mission_Red",
+    "/Game/Production/Materials/M_Mission_Olive.M_Mission_Olive",
+    "/Game/Production/Materials/M_Mission_Rubber.M_Mission_Rubber",
+    "/Game/Production/Materials/M_Mission_Glass.M_Mission_Glass"
+  ],
+  "MarketStall": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Produce_Green.M_Produce_Green",
+    "/Game/Production/Materials/M_Canvas_Tan.M_Canvas_Tan",
+    "/Game/Production/Materials/M_Produce_Ochre.M_Produce_Ochre"
+  ],
+  "MineCart": [
+    "/Game/Production/Materials/M_Mine_Rust.M_Mine_Rust",
+    "/Game/Production/Materials/M_Weathered_Iron.M_Weathered_Iron",
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber"
+  ],
+  "QuarryCompressor": [
+    "/Game/Production/Materials/M_Equipment_Yellow.M_Equipment_Yellow",
+    "/Game/Production/Materials/M_Field_Rubber.M_Field_Rubber",
+    "/Game/Production/Materials/M_Weathered_Iron.M_Weathered_Iron"
+  ],
+  "QuarryCrane": [
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel",
+    "/Game/Production/Materials/M_Crane_Ochre.M_Crane_Ochre"
+  ],
+  "RadarArray": [
+    "/Game/Production/Materials/M_Radar_Olive.M_Radar_Olive",
+    "/Game/Production/Materials/M_Weathered_Iron.M_Weathered_Iron"
+  ],
+  "RadioStation": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Mission_Steel.M_Mission_Steel",
+    "/Game/Production/Materials/M_Mission_Olive.M_Mission_Olive",
+    "/Game/Production/Materials/M_Mission_Rubber.M_Mission_Rubber",
+    "/Game/Production/Materials/M_Mission_Paper.M_Mission_Paper",
+    "/Game/Production/Materials/M_Mission_Glass.M_Mission_Glass"
+  ],
+  "RescueTransport": [
+    "/Game/Production/Materials/M_Transport_Olive.M_Transport_Olive",
+    "/Game/Production/Materials/M_Transport_Edge.M_Transport_Edge",
+    "/Game/Production/Materials/M_Transport_Canvas.M_Transport_Canvas",
+    "/Game/Production/Materials/M_Transport_Rubber.M_Transport_Rubber",
+    "/Game/Production/Materials/M_Transport_Glass.M_Transport_Glass",
+    "/Game/Production/Materials/M_Transport_RescueMark.M_Transport_RescueMark"
+  ],
+  "RiverBridge": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel",
+    "/Game/Production/Materials/M_Bridge_Rope.M_Bridge_Rope"
+  ],
+  "RiverDock": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Canvas_Tan.M_Canvas_Tan"
+  ],
+  "Sandbags": [
+    "/Game/Production/Materials/M_Field_Sack.M_Field_Sack"
+  ],
+  "SupplyShed": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Shed_RustedRoof.M_Shed_RustedRoof"
+  ],
+  "TransportDoor": [
+    "/Game/Production/Materials/M_Transport_Olive.M_Transport_Olive",
+    "/Game/Production/Materials/M_Transport_Glass.M_Transport_Glass"
+  ],
+  "VillageStore": [
+    "/Game/Production/Materials/M_Village_Plaster.M_Village_Plaster",
+    "/Game/Production/Materials/M_Shutter_Blue.M_Shutter_Blue",
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Roof_Terracotta.M_Roof_Terracotta"
+  ],
+  "VillageWell": [
+    "/Game/Production/Materials/M_Well_Stone.M_Well_Stone",
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Canvas_Tan.M_Canvas_Tan",
+    "/Game/Production/Materials/M_Weathered_Iron.M_Weathered_Iron"
+  ],
+  "Watchtower": [
+    "/Game/Production/Materials/M_Field_Timber.M_Field_Timber",
+    "/Game/Production/Materials/M_Field_Steel.M_Field_Steel"
+  ]
+}

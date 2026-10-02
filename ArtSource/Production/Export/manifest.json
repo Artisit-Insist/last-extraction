@@ -1,0 +1,404 @@
+{
+  "fern_02_0": {
+    "materials": [
+      {
+        "name": "fern_02",
+        "textures": {
+          "fern_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_diff_2k.jpg",
+          "fern_02_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_arm_2k.jpg",
+          "fern_02_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_nor_gl_2k.jpg",
+          "fern_02_alpha_2k.png": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_alpha_2k.png"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      0.9897474050521851,
+      0.8936897218227386,
+      0.4276947118341923
+    ],
+    "source": "fern_02"
+  },
+  "fern_02_1": {
+    "materials": [
+      {
+        "name": "fern_02",
+        "textures": {
+          "fern_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_diff_2k.jpg",
+          "fern_02_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_arm_2k.jpg",
+          "fern_02_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_nor_gl_2k.jpg",
+          "fern_02_alpha_2k.png": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_alpha_2k.png"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      0.8743258118629456,
+      0.7652256786823273,
+      0.3490203693509102
+    ],
+    "source": "fern_02"
+  },
+  "fern_02_2": {
+    "materials": [
+      {
+        "name": "fern_02",
+        "textures": {
+          "fern_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_diff_2k.jpg",
+          "fern_02_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_arm_2k.jpg",
+          "fern_02_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_nor_gl_2k.jpg",
+          "fern_02_alpha_2k.png": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_alpha_2k.png"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      0.5519406199455261,
+      0.6134210824966431,
+      0.2868035454303026
+    ],
+    "source": "fern_02"
+  },
+  "fern_02_3": {
+    "materials": [
+      {
+        "name": "fern_02",
+        "textures": {
+          "fern_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_diff_2k.jpg",
+          "fern_02_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_arm_2k.jpg",
+          "fern_02_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_nor_gl_2k.jpg",
+          "fern_02_alpha_2k.png": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_alpha_2k.png"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      0.5727821588516235,
+      0.5932782888412476,
+      0.21308755222707987
+    ],
+    "source": "fern_02"
+  },
+  "island_tree_02": {
+    "materials": [
+      {
+        "name": "island_tree_02",
+        "textures": {
+          "island_tree_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_diff_2k.jpg",
+          "island_tree_02_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_arm_2k.jpg",
+          "island_tree_02_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      },
+      {
+        "name": "island_tree_02_leaves",
+        "textures": {
+          "island_tree_02_leaves_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_leaves_diff_2k.jpg",
+          "island_tree_02_leaves_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_leaves_arm_2k.jpg",
+          "island_tree_02_leaves_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_leaves_nor_gl_2k.jpg",
+          "fern_02_alpha_2k.png": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/fern_02/textures/fern_02_alpha_2k.png",
+          "island_tree_02_leaves_alpha_2k.png": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_leaves_alpha_2k.png"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      },
+      {
+        "name": "island_tree_02_branches",
+        "textures": {
+          "island_tree_02_branches_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_branches_diff_2k.jpg",
+          "island_tree_02_branches_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_branches_arm_2k.jpg",
+          "island_tree_02_branches_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/island_tree_02/textures/island_tree_02_branches_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      4.123864412307739,
+      4.07114839553833,
+      3.4069954827427864
+    ],
+    "source": "island_tree_02"
+  },
+  "rock_moss_set_01_0": {
+    "materials": [
+      {
+        "name": "rock_moss_set_01",
+        "textures": {
+          "rock_moss_set_01_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+          "rock_moss_set_01_rough_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+          "rock_moss_set_01_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      2.2376322746276855,
+      3.3688043355941772,
+      1.4726980924606323
+    ],
+    "source": "rock_moss_set_01"
+  },
+  "rock_moss_set_01_1": {
+    "materials": [
+      {
+        "name": "rock_moss_set_01",
+        "textures": {
+          "rock_moss_set_01_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+          "rock_moss_set_01_rough_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+          "rock_moss_set_01_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      2.6553808450698853,
+      3.263720393180847,
+      1.261991173028946
+    ],
+    "source": "rock_moss_set_01"
+  },
+  "rock_moss_set_01_2": {
+    "materials": [
+      {
+        "name": "rock_moss_set_01",
+        "textures": {
+          "rock_moss_set_01_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+          "rock_moss_set_01_rough_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+          "rock_moss_set_01_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      2.1085824966430664,
+      2.079585552215576,
+      1.0996944606304169
+    ],
+    "source": "rock_moss_set_01"
+  },
+  "rock_moss_set_01_3": {
+    "materials": [
+      {
+        "name": "rock_moss_set_01",
+        "textures": {
+          "rock_moss_set_01_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+          "rock_moss_set_01_rough_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+          "rock_moss_set_01_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      2.127629280090332,
+      1.9647413492202759,
+      1.768319845199585
+    ],
+    "source": "rock_moss_set_01"
+  },
+  "rock_moss_set_01_4": {
+    "materials": [
+      {
+        "name": "rock_moss_set_01",
+        "textures": {
+          "rock_moss_set_01_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+          "rock_moss_set_01_rough_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+          "rock_moss_set_01_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      1.8173227310180664,
+      2.998663902282715,
+      1.205450713634491
+    ],
+    "source": "rock_moss_set_01"
+  },
+  "rock_moss_set_01_5": {
+    "materials": [
+      {
+        "name": "rock_moss_set_01",
+        "textures": {
+          "rock_moss_set_01_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+          "rock_moss_set_01_rough_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+          "rock_moss_set_01_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      2.125982165336609,
+      2.7573031187057495,
+      1.2618526816368103
+    ],
+    "source": "rock_moss_set_01"
+  },
+  "wooden_crate_02": {
+    "materials": [
+      {
+        "name": "wooden_crate_02",
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg",
+          "wooden_crate_02_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_arm_2k.jpg",
+          "wooden_crate_02_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      0.5291009545326233,
+      1.1663258075714111,
+      0.46395453810691833
+    ],
+    "source": "wooden_crate_02"
+  },
+  "barrel_03": {
+    "materials": [
+      {
+        "name": "barrel_03",
+        "textures": {
+          "barrel_03_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/barrel_03/textures/barrel_03_diff_2k.jpg",
+          "barrel_03_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/barrel_03/textures/barrel_03_arm_2k.jpg",
+          "barrel_03_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/barrel_03/textures/barrel_03_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      0.633943498134613,
+      0.6385995149612427,
+      0.9304736243899825
+    ],
+    "source": "barrel_03"
+  },
+  "dead_tree_trunk": {
+    "materials": [
+      {
+        "name": "dead_tree_trunk",
+        "textures": {
+          "dead_tree_trunk_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/dead_tree_trunk/textures/dead_tree_trunk_diff_2k.jpg",
+          "dead_tree_trunk_arm_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/dead_tree_trunk/textures/dead_tree_trunk_arm_2k.jpg",
+          "dead_tree_trunk_nor_gl_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/dead_tree_trunk/textures/dead_tree_trunk_nor_gl_2k.jpg"
+        },
+        "base": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "roughness": 0.5,
+        "metallic": 0.0
+      }
+    ],
+    "size_m": [
+      3.051015019416809,
+      0.27752751111984253,
+      0.29043155536055565
+    ],
+    "source": "dead_tree_trunk"
+  }
+}

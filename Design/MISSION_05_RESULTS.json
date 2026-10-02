@@ -1,0 +1,154 @@
+{
+  "wall_seconds": 395.1,
+  "route": [
+    "ROUTE_PLAYTEST_PASS elapsed=1232.0 deaths=0 kills=419"
+  ],
+  "ending": [
+    "EXTRACTION_ENDING_COMPLETE boarded=13 total=13 aboard_actors=13 duration=45.03"
+  ],
+  "escorts": [
+    [
+      "0",
+      "1",
+      "1",
+      "1",
+      "304.0"
+    ],
+    [
+      "0",
+      "3",
+      "2",
+      "2",
+      "323.6"
+    ],
+    [
+      "1",
+      "1",
+      "3",
+      "1",
+      "275.8"
+    ],
+    [
+      "1",
+      "5",
+      "4",
+      "2",
+      "452.5"
+    ],
+    [
+      "2",
+      "1",
+      "5",
+      "1",
+      "310.0"
+    ],
+    [
+      "2",
+      "2",
+      "6",
+      "2",
+      "297.0"
+    ],
+    [
+      "3",
+      "1",
+      "7",
+      "1",
+      "228.0"
+    ],
+    [
+      "3",
+      "4",
+      "8",
+      "2",
+      "445.8"
+    ],
+    [
+      "4",
+      "3",
+      "9",
+      "1",
+      "295.7"
+    ],
+    [
+      "5",
+      "0",
+      "10",
+      "1",
+      "316.8"
+    ],
+    [
+      "5",
+      "2",
+      "11",
+      "2",
+      "312.2"
+    ],
+    [
+      "5",
+      "5",
+      "12",
+      "3",
+      "317.5"
+    ]
+  ],
+  "navigation_start_failures": 0,
+  "navigation_no_path": 1,
+  "navigation_collisions": 0,
+  "ally_logs": [
+    "ALLY_SUPPORT_FIRE shots=200 allies=1 target=73",
+    "ALLY_SUPPORT_FIRE shots=240 allies=2 target=61",
+    "ALLY_SUPPORT_FIRE shots=280 allies=3 target=83"
+  ],
+  "user_save_unchanged": true,
+  "vsm_overflow": false,
+  "midway_save": {
+    "saved_position": [
+      -7064.828406956998,
+      -106.21071232697724,
+      177.5775146484375
+    ],
+    "scenery_layout": "SCENERY_LAYOUT chapter=0 meshes=2989 hash=8ec4aeb3",
+    "scenery_identical": true,
+    "resume_complete": true,
+    "user_save_unchanged": true
+  },
+  "version": "0.5.0",
+  "video": {
+    "file": "동료_호송과_무장.mp4",
+    "duration_seconds": 17.133333,
+    "frames": 514,
+    "size_bytes": 12824428,
+    "encoding": "1280x720 30fps H264 AAC 44100Hz",
+    "full_decode": "passed",
+    "sound": "game assets mixed at logged event times"
+  },
+  "performance": {
+    "fixed_time_step": false,
+    "requested_window": "1280x720",
+    "default_frame_smoothing_cap": 61,
+    "regions": [
+      {
+        "chapter": 0,
+        "frames": 1020,
+        "skip_startup_frames": 180,
+        "elapsed_sample_seconds": 16.724358199999998,
+        "mean_frame_ms": 16.39642960784314,
+        "average_fps": 60.98888745398911,
+        "p99_frame_ms": 16.7192,
+        "max_frame_ms": 17.7265
+      },
+      {
+        "chapter": 4,
+        "frames": 1020,
+        "skip_startup_frames": 180,
+        "elapsed_sample_seconds": 16.7252602,
+        "mean_frame_ms": 16.397313921568628,
+        "average_fps": 60.985598298793576,
+        "p99_frame_ms": 16.7057,
+        "max_frame_ms": 17.2031
+      }
+    ],
+    "note": "Short samples on this Mac; not whole-campaign or user play-duration proof."
+  }
+}

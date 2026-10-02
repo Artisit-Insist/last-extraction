@@ -1,0 +1,7 @@
+{
+  "tool": "ChatGPT built-in image generation",
+  "model_version": "Not exposed by tool; not verified as 2.5",
+  "purpose": "Base-color texture for armored vehicle, generator and radio",
+  "prompt": "Create a professional physically based game material base-color texture, square 2048x2048, seamless tileable. Flat orthographic scan of weathered dark olive drab military vehicle painted steel, evenly lit with no baked lighting, no cast shadows, no objects or text or composition. Detailed aged olive green enamel paint with subtle fine orange-peel surface grain, gentle irregular dark green camouflage-like paint variation (very subdued), sparse small chipped edges revealing dark grey steel and tiny rusty freckles, dust ingrained in fine hairline scratches, restrained patina. Broad continuous material, NOT a photograph of a vehicle, no panels, no bolts, no large cracks, no diagonal stripes. 90 percent painted surface, 10 percent small wear. Color approximately #434a2d with earthy restrained highlights. Realistic high-frequency microtexture for premium Unreal Engine armored car and field equipment materials; no stylization.",
+  "source_file": "exec-71eb7552-a8c0-4e57-b44b-30ffc4ee07f1.png"
+}

@@ -1,0 +1,43 @@
+{
+  "version": "0.4.0",
+  "checked_at_utc": "2026-10-02T19:02:21.857478+00:00",
+  "scan_sets": 11,
+  "source_maps": 33,
+  "source_md5_pass": true,
+  "surface_materials": 23,
+  "ground_materials": 6,
+  "other_materials": [
+    "River",
+    "CombatBoots"
+  ],
+  "rebound_static_meshes": 31,
+  "region_captures_pass": 6,
+  "water_capture_shader_errors": 0,
+  "ending_boarded": 13,
+  "ending_aboard_actors": 13,
+  "ending_duration_seconds": 45.03,
+  "gameplay_changes": false,
+  "packaging": "pass",
+  "packaged_route": {
+    "status": "pass",
+    "chapters": 6,
+    "objectives": 42,
+    "elapsed_simulated_seconds": 1070.6,
+    "deaths": 0,
+    "kills": 364,
+    "ally_shots_logged": 240,
+    "rendered": true,
+    "note": "Fixed timestep accelerated run; not human duration or FPS"
+  },
+  "limitations": [
+    "Graphics remain a prototype; AAA quality not achieved",
+    "Human 1-hour campaign not verified",
+    "Current optimized automated route baseline is 1070.6 simulated seconds",
+    "Guard and survivor body variants remain similar"
+  ],
+  "architecture": "arm64",
+  "codesign_strict": "pass",
+  "gallery_images": 20,
+  "gallery_links": "pass",
+  "archive_validation_record": "See the delivery folder 검증결과.md; archive validation is performed after source is packed"
+}

@@ -1,0 +1,218 @@
+{
+  "Role06_Skin": {
+    "color": [
+      0.15,
+      0.18,
+      0.1
+    ],
+    "roughness": 0.58,
+    "texture": "MakeHumanSystemAssets/skins/young_caucasian_male/young_lightskinned_male_diffuse.png",
+    "normal": null,
+    "ao": null,
+    "masked": false
+  },
+  "Role06_Leather": {
+    "color": [
+      0.035,
+      0.032,
+      0.022
+    ],
+    "roughness": 0.7,
+    "texture": null,
+    "normal": null,
+    "ao": null,
+    "masked": false
+  },
+  "Role06_Webbing": {
+    "color": [
+      0.085,
+      0.105,
+      0.046
+    ],
+    "roughness": 0.87,
+    "texture": null,
+    "normal": null,
+    "ao": null,
+    "masked": false
+  },
+  "Role06_Helmet": {
+    "color": [
+      0.075,
+      0.11,
+      0.048
+    ],
+    "roughness": 0.64,
+    "texture": null,
+    "normal": null,
+    "ao": null,
+    "masked": false
+  },
+  "Role06_Metal": {
+    "color": [
+      0.043,
+      0.049,
+      0.04
+    ],
+    "roughness": 0.4,
+    "texture": null,
+    "normal": null,
+    "ao": null,
+    "masked": false
+  },
+  "Role06_Eye": {
+    "color": [
+      0.62,
+      0.59,
+      0.52
+    ],
+    "roughness": 0.24,
+    "texture": null,
+    "normal": null,
+    "ao": null,
+    "masked": false
+  },
+  "Role06_Iris": {
+    "color": [
+      0.035,
+      0.019,
+      0.008
+    ],
+    "roughness": 0.22,
+    "texture": null,
+    "normal": null,
+    "ao": null,
+    "masked": false
+  },
+  "Role06_Boots": {
+    "color": [
+      0.15,
+      0.18,
+      0.1
+    ],
+    "roughness": 0.8,
+    "texture": "MakeHumanSystemAssets/clothes/shoes02/shoes02_diffuse.png",
+    "normal": null,
+    "ao": null,
+    "masked": false
+  },
+  "Role06_Guard06_Cloth": {
+    "color": [
+      0.16,
+      0.2,
+      0.075
+    ],
+    "roughness": 0.9,
+    "texture": "Camouflage.png",
+    "normal": "MakeHumanSystemAssets/clothes/male_casualsuit02/male_casualsuit02_normal.png",
+    "ao": "MakeHumanSystemAssets/clothes/male_casualsuit02/male_casualsuit02_ao.png",
+    "masked": false
+  },
+  "Role06_short02": {
+    "color": [
+      0.15,
+      0.18,
+      0.1
+    ],
+    "roughness": 0.85,
+    "texture": "MakeHumanSystemAssets/hair/short02/short02_diffuse.png",
+    "normal": null,
+    "ao": null,
+    "masked": true
+  },
+  "Role06_Brows": {
+    "color": [
+      0.15,
+      0.18,
+      0.1
+    ],
+    "roughness": 0.9,
+    "texture": "MakeHumanSystemAssets/eyebrows/eyebrow003/eyebrow003.png",
+    "normal": null,
+    "ao": null,
+    "masked": true
+  },
+  "Role06_Scout06_Cloth": {
+    "color": [
+      0.13,
+      0.16,
+      0.1
+    ],
+    "roughness": 0.9,
+    "texture": null,
+    "normal": "MakeHumanSystemAssets/clothes/male_casualsuit02/male_casualsuit02_normal.png",
+    "ao": "MakeHumanSystemAssets/clothes/male_casualsuit02/male_casualsuit02_ao.png",
+    "masked": false
+  },
+  "Role06_Heavy06_Cloth": {
+    "color": [
+      0.095,
+      0.13,
+      0.07
+    ],
+    "roughness": 0.9,
+    "texture": "Camouflage.png",
+    "normal": "MakeHumanSystemAssets/clothes/male_casualsuit02/male_casualsuit02_normal.png",
+    "ao": "MakeHumanSystemAssets/clothes/male_casualsuit02/male_casualsuit02_ao.png",
+    "masked": false
+  },
+  "Role06_Civilian06_Cloth": {
+    "color": [
+      0.31,
+      0.29,
+      0.21
+    ],
+    "roughness": 0.9,
+    "texture": null,
+    "normal": "MakeHumanSystemAssets/clothes/male_casualsuit06/male_casualsuit06_normal.png",
+    "ao": "MakeHumanSystemAssets/clothes/male_casualsuit06/male_casualsuit06_ao.png",
+    "masked": false
+  },
+  "Role06_Denim": {
+    "color": [
+      0.027,
+      0.07,
+      0.1
+    ],
+    "roughness": 0.88,
+    "texture": null,
+    "normal": "MakeHumanSystemAssets/clothes/male_casualsuit06/male_casualsuit06_normal.png",
+    "ao": "MakeHumanSystemAssets/clothes/male_casualsuit06/male_casualsuit06_ao.png",
+    "masked": false
+  },
+  "Role06_short03": {
+    "color": [
+      0.15,
+      0.18,
+      0.1
+    ],
+    "roughness": 0.85,
+    "texture": "MakeHumanSystemAssets/hair/short03/short03_diffuse.png",
+    "normal": null,
+    "ao": null,
+    "masked": true
+  },
+  "Role06_Worker06_Cloth": {
+    "color": [
+      0.31,
+      0.29,
+      0.21
+    ],
+    "roughness": 0.9,
+    "texture": "MakeHumanSystemAssets/clothes/male_worksuit01/male_worksuit01_diffuse.png",
+    "normal": "MakeHumanSystemAssets/clothes/male_worksuit01/male_worksuit01_normal.png",
+    "ao": "MakeHumanSystemAssets/clothes/male_worksuit01/male_worksuit01_ao.png",
+    "masked": false
+  },
+  "Role06_short01": {
+    "color": [
+      0.15,
+      0.18,
+      0.1
+    ],
+    "roughness": 0.85,
+    "texture": "MakeHumanSystemAssets/hair/short01/short01_diffuse.png",
+    "normal": null,
+    "ao": null,
+    "masked": true
+  }
+}

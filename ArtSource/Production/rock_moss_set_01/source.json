@@ -1,0 +1,31 @@
+{
+  "source": "https://polyhaven.com/a/rock_moss_set_01",
+  "license": "CC0",
+  "files": {
+    "rock_moss_set_01.bin": {
+      "size": 1466380,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/rock_moss_set_01/rock_moss_set_01.bin",
+      "md5": "207a51c9f56d34732e9814bbf9cc07b1"
+    },
+    "textures/rock_moss_set_01_diff_2k.jpg": {
+      "size": 649415,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_diff_2k.jpg",
+      "md5": "d3e1292c9e34bd6b4a236698a1b41290"
+    },
+    "textures/rock_moss_set_01_nor_gl_2k.jpg": {
+      "size": 840957,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_nor_gl_2k.jpg",
+      "md5": "88be6d9cf2927a09182e2bfccc9b8b56"
+    },
+    "textures/rock_moss_set_01_rough_2k.jpg": {
+      "size": 293827,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_rough_2k.jpg",
+      "md5": "f7b3045b503fbde038598f8586ac25ef"
+    },
+    "rock_moss_set_01.gltf": {
+      "size": 9987,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/rock_moss_set_01/rock_moss_set_01_2k.gltf",
+      "md5": "c45cebb55c848a11233126f691557ca0"
+    }
+  }
+}

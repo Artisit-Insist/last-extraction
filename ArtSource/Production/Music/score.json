@@ -1,0 +1,44 @@
+{
+  "bars": 64,
+  "instruments": [
+    [
+      "Cello",
+      42
+    ],
+    [
+      "Strings",
+      48
+    ],
+    [
+      "Horn",
+      60
+    ],
+    [
+      "Plucked",
+      24
+    ],
+    [
+      "Bass",
+      32
+    ],
+    [
+      "Mallet",
+      11
+    ],
+    [
+      "Timpani",
+      47
+    ],
+    [
+      "Percussion",
+      0
+    ]
+  ],
+  "tracks": [
+    "Infiltration",
+    "Contact",
+    "Siege",
+    "Homeward"
+  ],
+  "authorship": "Original MIDI composition generated for Last Extraction"
+}

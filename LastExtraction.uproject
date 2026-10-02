@@ -1,0 +1,27 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "Last Extraction - jungle rescue action campaign",
+  "Plugins": [
+    {
+      "Name": "PythonScriptPlugin",
+      "Enabled": true
+    },
+    {
+      "Name": "EditorScriptingUtilities",
+      "Enabled": true
+    },
+    {
+      "Name": "ProceduralMeshComponent",
+      "Enabled": true
+    }
+  ],
+  "Modules": [
+    {
+      "Name": "LastExtraction",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

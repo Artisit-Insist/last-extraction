@@ -1,0 +1,30 @@
+[
+  {
+    "file": "Contact.wav",
+    "seconds": 139.08920634920634,
+    "peak_dbfs": -4.9,
+    "rms_dbfs": -21.43,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "Infiltration.wav",
+    "seconds": 184.78551020408165,
+    "peak_dbfs": -5.96,
+    "rms_dbfs": -21.43,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "Siege.wav",
+    "seconds": 149.6345804988662,
+    "peak_dbfs": -5.34,
+    "rms_dbfs": -21.43,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "Homeward.wav",
+    "seconds": 168.8910657596372,
+    "peak_dbfs": -5.63,
+    "rms_dbfs": -21.43,
+    "full_pcm_read": "PASS"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-03",
+  "package": "Mac arm64 Development 0.3.0",
+  "graphics": "Metal SM6 rendered, fixed simulation time step 30fps",
+  "chapters_passed": 6,
+  "objectives_passed": 42,
+  "simulated_seconds": 1070.6,
+  "deaths": 0,
+  "kills": 364,
+  "ally_support_shots_at_least": 240,
+  "boarded": 13,
+  "aboard_actors": 13,
+  "ending_seconds": 45.03,
+  "vsm_warnings": 0,
+  "app_signature": "codesign deep strict PASS",
+  "media_decode": "both support and ending full decode PASS",
+  "notes": [
+    "Not a human play-duration or performance benchmark",
+    "Two recoverable route lookup warnings and one collision avoidance event",
+    "CoreAudio sample rate query warning on unattended launch; device output not verified by this automation"
+  ]
+}

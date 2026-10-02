@@ -1,0 +1,23 @@
+[
+  {
+    "name": "CivilianIdle",
+    "base": "Idle",
+    "frames": 91,
+    "fps": 30,
+    "source": "authored relaxed idle"
+  },
+  {
+    "name": "CivilianWalk",
+    "base": "WalkForward",
+    "frames": 34,
+    "fps": 30,
+    "source": "CMU upper/lower body retarget"
+  },
+  {
+    "name": "CivilianRun",
+    "base": "RunForward",
+    "frames": 23,
+    "fps": 30,
+    "source": "CMU upper/lower body retarget"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "source": "https://polyhaven.com/a/wooden_crate_02",
+  "license": "CC0",
+  "files": {
+    "textures/wooden_crate_02_nor_gl_2k.jpg": {
+      "size": 2280942,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_crate_02/wooden_crate_02_nor_gl_2k.jpg",
+      "md5": "c3ea9a69401a666d7410cfc8173414f3"
+    },
+    "textures/wooden_crate_02_arm_2k.jpg": {
+      "size": 2983795,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_crate_02/wooden_crate_02_arm_2k.jpg",
+      "md5": "204ec1fd40b1d2f0662c1ffafa8a2a43"
+    },
+    "textures/wooden_crate_02_diff_2k.jpg": {
+      "size": 2739157,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_crate_02/wooden_crate_02_diff_2k.jpg",
+      "md5": "7a33065ca4727aec5b6d0c01434159f5"
+    },
+    "wooden_crate_02.bin": {
+      "size": 150064,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_crate_02/wooden_crate_02.bin",
+      "md5": "08d98507231cdeda1070d1a2d0646254"
+    },
+    "wooden_crate_02.gltf": {
+      "size": 4150,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/wooden_crate_02/wooden_crate_02_2k.gltf",
+      "md5": "4f403fad26973a4c59f8f0f76df882e8"
+    }
+  }
+}

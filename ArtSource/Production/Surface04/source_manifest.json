@@ -1,0 +1,302 @@
+{
+  "concrete_wall_006": {
+    "page": "https://polyhaven.com/a/concrete_wall_006",
+    "license": "CC0",
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Charlotte Baglioni": "Photography"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 3109558,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_wall_006/concrete_wall_006_diff_2k.jpg",
+        "md5": "604ffd4e767e1949d714ee9ee35215ca",
+        "file": "concrete_wall_006/concrete_wall_006_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 4958473,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_wall_006/concrete_wall_006_nor_dx_2k.jpg",
+        "md5": "dd9e2cd10661efbbecaff52a9f205bac",
+        "file": "concrete_wall_006/concrete_wall_006_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 3993163,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_wall_006/concrete_wall_006_arm_2k.jpg",
+        "md5": "cc886437ea78c089ae5776a6a65228b0",
+        "file": "concrete_wall_006/concrete_wall_006_arm_2k.jpg"
+      }
+    }
+  },
+  "rough_plaster_brick_02": {
+    "page": "https://polyhaven.com/a/rough_plaster_brick_02",
+    "license": "CC0",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 3581775,
+        "md5": "a3514bffee0fe71307c9344491d66c02",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_plaster_brick_02/rough_plaster_brick_02_diff_2k.jpg",
+        "file": "rough_plaster_brick_02/rough_plaster_brick_02_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 1353308,
+        "md5": "5ca2ba0f4ad1d3df834b0f7ccd788cd5",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_plaster_brick_02/rough_plaster_brick_02_nor_dx_2k.jpg",
+        "file": "rough_plaster_brick_02/rough_plaster_brick_02_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 1758467,
+        "md5": "2200bd28a2371117fb5d589c8bd571b3",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_plaster_brick_02/rough_plaster_brick_02_arm_2k.jpg",
+        "file": "rough_plaster_brick_02/rough_plaster_brick_02_arm_2k.jpg"
+      }
+    }
+  },
+  "rusty_painted_metal": {
+    "page": "https://polyhaven.com/a/rusty_painted_metal",
+    "license": "CC0",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "maps": {
+      "Diffuse": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_painted_metal/rusty_painted_metal_diff_2k.jpg",
+        "md5": "dd4f975d539100c4d31fa91d41e1ea71",
+        "size": 1930544,
+        "file": "rusty_painted_metal/rusty_painted_metal_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_painted_metal/rusty_painted_metal_nor_dx_2k.jpg",
+        "md5": "48a3636d22ab82de9026c7c11b17d88b",
+        "size": 2293244,
+        "file": "rusty_painted_metal/rusty_painted_metal_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_painted_metal/rusty_painted_metal_arm_2k.jpg",
+        "md5": "1ae307c9293e24227313d18f857c226b",
+        "size": 1552679,
+        "file": "rusty_painted_metal/rusty_painted_metal_arm_2k.jpg"
+      }
+    }
+  },
+  "worn_corrugated_iron": {
+    "page": "https://polyhaven.com/a/worn_corrugated_iron",
+    "license": "CC0",
+    "authors": {
+      "Jenelle van Heerden": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 3254293,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/worn_corrugated_iron/worn_corrugated_iron_diff_2k.jpg",
+        "md5": "11cfe299bae991f40a39db04047342de",
+        "file": "worn_corrugated_iron/worn_corrugated_iron_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 4260888,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/worn_corrugated_iron/worn_corrugated_iron_nor_dx_2k.jpg",
+        "md5": "fb8232c0ed958f3a91b7c1d25fc34931",
+        "file": "worn_corrugated_iron/worn_corrugated_iron_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 2863764,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/worn_corrugated_iron/worn_corrugated_iron_arm_2k.jpg",
+        "md5": "59fad13e041bd1dcc63b3a2b41d2f981",
+        "file": "worn_corrugated_iron/worn_corrugated_iron_arm_2k.jpg"
+      }
+    }
+  },
+  "asphalt_02": {
+    "page": "https://polyhaven.com/a/asphalt_02",
+    "license": "CC0",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 3075676,
+        "md5": "336af399fd98a39ab986d8b3bf73b4ff",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_diff_2k.jpg",
+        "file": "asphalt_02/asphalt_02_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 5052243,
+        "md5": "801b454d4070a499e48c448d299fcf1f",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_nor_dx_2k.jpg",
+        "file": "asphalt_02/asphalt_02_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 1299186,
+        "md5": "152c0fb79ad6f33040b79779fea98664",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_arm_2k.jpg",
+        "file": "asphalt_02/asphalt_02_arm_2k.jpg"
+      }
+    }
+  },
+  "denim_fabric_04": {
+    "page": "https://polyhaven.com/a/denim_fabric_04",
+    "license": "CC0",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "maps": {
+      "Diffuse": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric_04/denim_fabric_04_diff_2k.jpg",
+        "md5": "fdfe5ac872f78a15402ceb739b5b5478",
+        "size": 4042147,
+        "file": "denim_fabric_04/denim_fabric_04_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric_04/denim_fabric_04_nor_dx_2k.jpg",
+        "md5": "2029cd343c077c316a855356b078362d",
+        "size": 3964507,
+        "file": "denim_fabric_04/denim_fabric_04_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric_04/denim_fabric_04_arm_2k.jpg",
+        "md5": "9364b084d989d4eac218cbe22cc64202",
+        "size": 4952337,
+        "file": "denim_fabric_04/denim_fabric_04_arm_2k.jpg"
+      }
+    }
+  },
+  "rocky_terrain_02": {
+    "page": "https://polyhaven.com/a/rocky_terrain_02",
+    "license": "CC0",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 3232826,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rocky_terrain_02/rocky_terrain_02_diff_2k.jpg",
+        "md5": "68f9c94575ff3c3512be9b010eb03f0e",
+        "file": "rocky_terrain_02/rocky_terrain_02_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 4146793,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rocky_terrain_02/rocky_terrain_02_nor_dx_2k.jpg",
+        "md5": "b0c5657f30704fb939ea49451dc2efa2",
+        "file": "rocky_terrain_02/rocky_terrain_02_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 1960945,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rocky_terrain_02/rocky_terrain_02_arm_2k.jpg",
+        "md5": "d86dcfb1f4dcd8bc2c49f5cf28dd6cce",
+        "file": "rocky_terrain_02/rocky_terrain_02_arm_2k.jpg"
+      }
+    }
+  },
+  "dirt_floor": {
+    "page": "https://polyhaven.com/a/dirt_floor",
+    "license": "CC0",
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 3944426,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dirt_floor/dirt_floor_diff_2k.jpg",
+        "md5": "dace6e0d469e7b99f0794b941f06bab8",
+        "file": "dirt_floor/dirt_floor_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 4973546,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dirt_floor/dirt_floor_nor_dx_2k.jpg",
+        "md5": "4f758c871ede1ae26ccb77381c3169ff",
+        "file": "dirt_floor/dirt_floor_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 2716388,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dirt_floor/dirt_floor_arm_2k.jpg",
+        "md5": "bfb4e055af511e4df8db909926054f0a",
+        "file": "dirt_floor/dirt_floor_arm_2k.jpg"
+      }
+    }
+  },
+  "green_metal_rust": {
+    "page": "https://polyhaven.com/a/green_metal_rust",
+    "license": "CC0",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 787402,
+        "md5": "fed1afb0e3b6f5a5710cee229fd54897",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/green_metal_rust/green_metal_rust_diff_2k.jpg",
+        "file": "green_metal_rust/green_metal_rust_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 388424,
+        "md5": "509f343c5749ec436867dcea5de911e8",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/green_metal_rust/green_metal_rust_nor_dx_2k.jpg",
+        "file": "green_metal_rust/green_metal_rust_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 477556,
+        "md5": "d2b0d367da9f077b0f5727be761896fa",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/green_metal_rust/green_metal_rust_arm_2k.jpg",
+        "file": "green_metal_rust/green_metal_rust_arm_2k.jpg"
+      }
+    }
+  },
+  "rusty_metal_03": {
+    "page": "https://polyhaven.com/a/rusty_metal_03",
+    "license": "CC0",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 2860689,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_03/rusty_metal_03_diff_2k.jpg",
+        "md5": "e5ec75885884f9440a14eae579035c9f",
+        "file": "rusty_metal_03/rusty_metal_03_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 2694075,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_03/rusty_metal_03_nor_dx_2k.jpg",
+        "md5": "1003c43d38d67b78e170d66658ca8511",
+        "file": "rusty_metal_03/rusty_metal_03_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 2197256,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_03/rusty_metal_03_arm_2k.jpg",
+        "md5": "7de5edac036faf884ab6ccf6be440c51",
+        "file": "rusty_metal_03/rusty_metal_03_arm_2k.jpg"
+      }
+    }
+  },
+  "gravel_ground_01": {
+    "page": "https://polyhaven.com/a/gravel_ground_01",
+    "license": "CC0",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "maps": {
+      "Diffuse": {
+        "size": 3823037,
+        "md5": "3157af7d0cb76c72efaab07061a46876",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/gravel_ground_01/gravel_ground_01_diff_2k.jpg",
+        "file": "gravel_ground_01/gravel_ground_01_diff_2k.jpg"
+      },
+      "nor_dx": {
+        "size": 5580903,
+        "md5": "89eab500989288931697dbd92da13846",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/gravel_ground_01/gravel_ground_01_nor_dx_2k.jpg",
+        "file": "gravel_ground_01/gravel_ground_01_nor_dx_2k.jpg"
+      },
+      "arm": {
+        "size": 704196,
+        "md5": "b2018a84dd54d3207f0496c55083120a",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/gravel_ground_01/gravel_ground_01_arm_2k.jpg",
+        "file": "gravel_ground_01/gravel_ground_01_arm_2k.jpg"
+      }
+    }
+  }
+}

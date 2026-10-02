@@ -1,0 +1,166 @@
+{
+  "FieldRifle": {
+    "materials": [
+      {
+        "name": "Field_Steel",
+        "base": [
+          0.04500000178813934,
+          0.052000001072883606,
+          0.04500000178813934,
+          1.0
+        ],
+        "roughness": 0.3499999940395355,
+        "metallic": 0.75,
+        "textures": {}
+      },
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.14000000059604645,
+          0.07999999821186066,
+          0.03400000184774399,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Field_Rubber",
+        "base": [
+          0.012000000104308128,
+          0.014000000432133675,
+          0.010999999940395355,
+          1.0
+        ],
+        "roughness": 0.800000011920929,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Field_Brass",
+        "base": [
+          0.33000001311302185,
+          0.20999999344348907,
+          0.05999999865889549,
+          1.0
+        ],
+        "roughness": 0.3499999940395355,
+        "metallic": 0.800000011920929,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      0.24458004534244537,
+      1.0289257764816284,
+      0.3364405632019043
+    ]
+  },
+  "Sandbags": {
+    "materials": [
+      {
+        "name": "Field_Sack",
+        "base": [
+          0.2199999988079071,
+          0.20000000298023224,
+          0.11999999731779099,
+          1.0
+        ],
+        "roughness": 0.949999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      2.9128425121307373,
+      0.3610941767692566,
+      0.6899999976158142
+    ]
+  },
+  "TimberHut": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.11999999731779099,
+          0.07000000029802322,
+          0.029999999329447746,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      3.7599997520446777,
+      3.3500001430511475,
+      3.200000047683716
+    ]
+  },
+  "HutRoof": {
+    "materials": [
+      {
+        "name": "Field_Steel",
+        "base": [
+          0.0949999988079071,
+          0.11999999731779099,
+          0.10999999940395355,
+          1.0
+        ],
+        "roughness": 0.6399999856948853,
+        "metallic": 0.44999998807907104,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      4.180000305175781,
+      3.877012252807617,
+      0.7047884464263916
+    ]
+  },
+  "Watchtower": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.11999999731779099,
+          0.06499999761581421,
+          0.029999999329447746,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Field_Steel",
+        "base": [
+          0.09000000357627869,
+          0.10000000149011612,
+          0.07999999821186066,
+          1.0
+        ],
+        "roughness": 0.6499999761581421,
+        "metallic": 0.30000001192092896,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      3.455000162124634,
+      3.200000286102295,
+      5.659999847412109
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+# Image prompts
+
+Tool: built-in image_gen. Four new images, transparent_background=false. No source photograph was supplied. Model version was not exposed by the tool.
+
+## JungleKeyArt.png
+
+Use case: stylized-concept. Asset type: actual main menu background and art direction image for a modern Unreal Engine jungle rescue action game inspired by classic 1980s Rambo games. Create a lavish cinematic wide 16:9 key art, ultra detailed physically based materials, wet tropical leaves, emerald river gorge, mist, amber sun shafts, an abandoned jungle prison and searchlights, a small distant extraction helicopter. Foreground right: a rugged muscular adult commando with long dark hair, red headband, muddy olive cargo trousers, carrying a bow and a rifle, back three quarter view, full upper body. No actor likeness required. Strong cinematic framing, fine skin texture, wet fabric, weathered metal. Keep LEFT 45 percent dark and atmospheric with low detail so the game can place menu text there. Sophisticated muted forest teal and amber color palette. No text, no letters, no logos, no watermark, no interface. This is game concept key art, not a claim of an actual gameplay screenshot.
+
+## EquipmentAtlas.png
+
+Use case: product-mockup. Asset type: in-game equipment inventory atlas for a premium jungle rescue action game. Square 2 by 2 grid with four equal panels, identical dark nearly black charcoal background, no borders, absolutely no text. Top left: extremely detailed worn military olive ammunition case with open lid and brass cartridges. Top right: canvas medical pouch with white simple cross, bandages and metal clasp. Bottom left: a recurved survival bow with taut string and three feathered arrows, arranged diagonally, entirely contained within its quadrant. Bottom right: rugged portable 1980s field radio with green phosphor screen, dials and handset. Photorealistic physically based game prop presentation, aged brushed metal, stitched fabric, dust and scratches, dramatic soft studio rim lighting, clear silhouettes, each object centered in its own quadrant with generous margin. No watermark, no letters.
+
+## CharacterDesign.png
+
+Use case: stylized-concept. Asset type: character design reference sheet for Last Extraction, a modern 3D jungle rescue game inspired by classic Rambo action. Wide high quality production art sheet, no text. Left half: full body rugged adult male jungle commando seen front three quarter, long dark shoulder length hair, red cloth headband, strong human anatomy, weathered face, olive tactical vest over worn sleeveless shirt, olive cargo pants, muddy leather combat boots, fingerless gloves, worn rifle held at low ready and survival bow slung on back. Right half: three detailed isolated prop close-ups, red headband and survival knife, worn military rifle, rescue radio with antenna. Neutral dark desaturated green studio background, extremely sharp realistic fabric weave, skin pores, scratches, stitching, cinematic game character concept. Believable proportion, complete uncropped body and boots, practical equipment, no logos, no watermark, no text. This is an art reference, not an actual gameplay screenshot.
+
+## JungleGround.png
+
+Use case: photorealistic-natural. Asset type: square tileable game ground albedo texture for a modern 3D jungle action game. Orthographic perfectly straight top down surface scan of dark brown tropical forest soil, damp olive moss, tiny pebbles, decomposing leaf fragments and roots. Seamless uniform repeating surface, extremely fine sharp material detail, even overcast diffuse lighting, no directional shadow, no horizon, no depth of field, no large recognizable objects. Color muted earthy brown with deep green moss. This texture will cover real terrain geometry, so retain consistent scale and edge continuity. No text, no graphic design, no border, no watermark.

@@ -1,0 +1,30 @@
+{
+  "Forest.wav": {
+    "seconds": 64.0,
+    "sample_rate": 32000
+  },
+  "Arrow.wav": {
+    "seconds": 0.32,
+    "sample_rate": 32000
+  },
+  "Rifle.wav": {
+    "seconds": 0.32,
+    "sample_rate": 32000
+  },
+  "Pickup.wav": {
+    "seconds": 0.8,
+    "sample_rate": 32000
+  },
+  "JungleScore.wav": {
+    "seconds": 192.0,
+    "sample_rate": 32000
+  },
+  "Explosion.wav": {
+    "seconds": 2.4,
+    "sample_rate": 32000
+  },
+  "Hit.wav": {
+    "seconds": 0.24,
+    "sample_rate": 32000
+  }
+}

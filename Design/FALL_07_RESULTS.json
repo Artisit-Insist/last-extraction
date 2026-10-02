@@ -1,0 +1,268 @@
+{
+  "preview_cases": 7,
+  "all_passed": true,
+  "units": "centimeters and seconds",
+  "results": [
+    {
+      "case": 0.0,
+      "drops": 1.0,
+      "simulate": 1.0,
+      "speed": 0.0,
+      "aabb_bottom": -10.299,
+      "hull_clearance": -0.0,
+      "original_visible": 0.0,
+      "frames": 180.0
+    },
+    {
+      "case": 1.0,
+      "drops": 1.0,
+      "simulate": 1.0,
+      "speed": 0.0,
+      "aabb_bottom": -10.15,
+      "hull_clearance": -0.0,
+      "original_visible": 0.0,
+      "frames": 0.0
+    },
+    {
+      "case": 2.0,
+      "drops": 1.0,
+      "simulate": 1.0,
+      "speed": 0.0,
+      "aabb_bottom": -10.416,
+      "hull_clearance": -0.001,
+      "original_visible": 0.0,
+      "frames": 180.0
+    },
+    {
+      "case": 3.0,
+      "drops": 1.0,
+      "simulate": 1.0,
+      "speed": 0.0,
+      "aabb_bottom": -11.78,
+      "hull_clearance": -0.0,
+      "original_visible": 0.0,
+      "frames": 180.0
+    },
+    {
+      "case": 4.0,
+      "drops": 1.0,
+      "simulate": 1.0,
+      "speed": 0.0,
+      "aabb_bottom": -10.299,
+      "hull_clearance": -0.0,
+      "original_visible": 0.0,
+      "frames": 0.0
+    },
+    {
+      "case": 5.0,
+      "drops": 1.0,
+      "simulate": 1.0,
+      "speed": 0.0,
+      "aabb_bottom": -10.3,
+      "hull_clearance": -0.0,
+      "original_visible": 0.0,
+      "frames": 0.0
+    },
+    {
+      "case": 6.0,
+      "drops": 1.0,
+      "simulate": 1.0,
+      "speed": 0.0,
+      "aabb_bottom": -10.418,
+      "hull_clearance": -0.001,
+      "original_visible": 0.0,
+      "frames": 0.0
+    }
+  ],
+  "video": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "frames": 540,
+    "seconds": 18,
+    "audio": false,
+    "full_decode_passed": true
+  },
+  "pose_checks": 1100,
+  "packaged_campaign": {
+    "weapon_drop_logged_max": 400,
+    "version": "0.7.0",
+    "wall_seconds": 430.88,
+    "route": [
+      "ROUTE_PLAYTEST_PASS elapsed=1232.0 deaths=0 kills=419"
+    ],
+    "ending": [
+      "EXTRACTION_ENDING_COMPLETE boarded=13 total=13 aboard_actors=13 duration=45.03"
+    ],
+    "escorts": [
+      [
+        "0",
+        "1",
+        "1",
+        "1",
+        "304.0"
+      ],
+      [
+        "0",
+        "3",
+        "2",
+        "2",
+        "323.6"
+      ],
+      [
+        "1",
+        "1",
+        "3",
+        "1",
+        "275.8"
+      ],
+      [
+        "1",
+        "5",
+        "4",
+        "2",
+        "452.5"
+      ],
+      [
+        "2",
+        "1",
+        "5",
+        "1",
+        "310.0"
+      ],
+      [
+        "2",
+        "2",
+        "6",
+        "2",
+        "297.0"
+      ],
+      [
+        "3",
+        "1",
+        "7",
+        "1",
+        "228.0"
+      ],
+      [
+        "3",
+        "4",
+        "8",
+        "2",
+        "445.8"
+      ],
+      [
+        "4",
+        "3",
+        "9",
+        "1",
+        "295.7"
+      ],
+      [
+        "5",
+        "0",
+        "10",
+        "1",
+        "316.8"
+      ],
+      [
+        "5",
+        "2",
+        "11",
+        "2",
+        "312.2"
+      ],
+      [
+        "5",
+        "5",
+        "12",
+        "3",
+        "317.5"
+      ]
+    ],
+    "wardrobe": [
+      [
+        "0",
+        "1",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "0",
+        "3",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "1",
+        "1",
+        "1",
+        "Worker06"
+      ],
+      [
+        "1",
+        "5",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "2",
+        "1",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "2",
+        "2",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "3",
+        "1",
+        "1",
+        "Worker06"
+      ],
+      [
+        "3",
+        "4",
+        "1",
+        "Worker06"
+      ],
+      [
+        "4",
+        "3",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "5",
+        "0",
+        "1",
+        "Worker06"
+      ],
+      [
+        "5",
+        "2",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "5",
+        "5",
+        "1",
+        "Civilian06"
+      ]
+    ],
+    "navigation_start_failures": 0,
+    "navigation_no_path": 1,
+    "navigation_collisions": 0,
+    "ally_logs": [
+      "ALLY_SUPPORT_FIRE shots=200 allies=1 target=73",
+      "ALLY_SUPPORT_FIRE shots=240 allies=2 target=61",
+      "ALLY_SUPPORT_FIRE shots=280 allies=3 target=83"
+    ],
+    "user_save_unchanged": true,
+    "vsm_overflow": false
+  }
+}

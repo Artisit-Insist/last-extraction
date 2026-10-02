@@ -1,0 +1,78 @@
+{
+  "Guard06": {
+    "vertices": 15930,
+    "polygons": 15808,
+    "bones": 52,
+    "materials": [
+      "Role06_Skin",
+      "Role06_Guard06_Cloth",
+      "Role06_Boots",
+      "Role06_Brows",
+      "Role06_Eye",
+      "Role06_Iris",
+      "Role06_Helmet",
+      "Role06_Webbing",
+      "Role06_Leather"
+    ]
+  },
+  "Scout06": {
+    "vertices": 15498,
+    "polygons": 15392,
+    "bones": 52,
+    "materials": [
+      "Role06_Skin",
+      "Role06_Scout06_Cloth",
+      "Role06_Boots",
+      "Role06_Brows",
+      "Role06_Eye",
+      "Role06_Iris",
+      "Role06_Webbing",
+      "Role06_Leather"
+    ]
+  },
+  "Heavy06": {
+    "vertices": 16474,
+    "polygons": 16320,
+    "bones": 52,
+    "materials": [
+      "Role06_Skin",
+      "Role06_Heavy06_Cloth",
+      "Role06_Boots",
+      "Role06_Brows",
+      "Role06_Eye",
+      "Role06_Iris",
+      "Role06_Helmet",
+      "Role06_Webbing",
+      "Role06_Leather"
+    ]
+  },
+  "Civilian06": {
+    "vertices": 16597,
+    "polygons": 16337,
+    "bones": 52,
+    "materials": [
+      "Role06_Skin",
+      "Role06_Civilian06_Cloth",
+      "Role06_Denim",
+      "Role06_Boots",
+      "Role06_short03",
+      "Role06_Brows",
+      "Role06_Eye",
+      "Role06_Iris"
+    ]
+  },
+  "Worker06": {
+    "vertices": 18341,
+    "polygons": 16880,
+    "bones": 52,
+    "materials": [
+      "Role06_Skin",
+      "Role06_Worker06_Cloth",
+      "Role06_Boots",
+      "Role06_short01",
+      "Role06_Brows",
+      "Role06_Eye",
+      "Role06_Iris"
+    ]
+  }
+}

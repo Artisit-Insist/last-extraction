@@ -1,0 +1,598 @@
+{
+  "version": "0.9.0",
+  "packaged_campaign": {
+    "site_layouts": [
+      [
+        "0",
+        "0",
+        "2",
+        "CommandTable08,Watchtower"
+      ],
+      [
+        "0",
+        "1",
+        "0",
+        "JungleBivouac08,FieldGenerator"
+      ],
+      [
+        "0",
+        "2",
+        "1",
+        "CableReel,CommandTable08"
+      ],
+      [
+        "0",
+        "3",
+        "0",
+        "BurntShelter08,FieldClinic08"
+      ],
+      [
+        "0",
+        "4",
+        "2",
+        "BoatRepair08,FishingNetRack"
+      ],
+      [
+        "0",
+        "5",
+        "1",
+        "QuarryCompressor,CableReel,Watchtower"
+      ],
+      [
+        "0",
+        "6",
+        "3",
+        "JungleBivouac08,Sandbags,CommandTable08"
+      ],
+      [
+        "1",
+        "0",
+        "2",
+        "CommandTable08,FishingNetRack"
+      ],
+      [
+        "1",
+        "1",
+        "0",
+        "BoatRepair08,StiltHouse"
+      ],
+      [
+        "1",
+        "2",
+        "1",
+        "CableReel,QuarryWorkbench08"
+      ],
+      [
+        "1",
+        "3",
+        "5",
+        "BridgeWinch,Sandbags"
+      ],
+      [
+        "1",
+        "4",
+        "4",
+        "BurntShelter08,barrel_03"
+      ],
+      [
+        "1",
+        "5",
+        "0",
+        "FishingNetRack,BoatRepair08,VillageKitchen08"
+      ],
+      [
+        "1",
+        "6",
+        "3",
+        "CommandTable08,Watchtower,CableReel"
+      ],
+      [
+        "2",
+        "0",
+        "2",
+        "VillageStore,MarketStall"
+      ],
+      [
+        "2",
+        "1",
+        "0",
+        "VillageKitchen08,Clothesline,StiltHouse"
+      ],
+      [
+        "2",
+        "2",
+        "0",
+        "MarketStall,MarketStall,VillageWell"
+      ],
+      [
+        "2",
+        "3",
+        "1",
+        "BurntShelter08,Sandbags"
+      ],
+      [
+        "2",
+        "4",
+        "2",
+        "FieldClinic08,VillageKitchen08"
+      ],
+      [
+        "2",
+        "5",
+        "4",
+        "BurntShelter08,MarketStall"
+      ],
+      [
+        "2",
+        "6",
+        "3",
+        "VillageStore,CommandTable08"
+      ],
+      [
+        "3",
+        "0",
+        "1",
+        "QuarryWorkbench08,CableReel"
+      ],
+      [
+        "3",
+        "1",
+        "0",
+        "FieldClinic08,MineCart"
+      ],
+      [
+        "3",
+        "2",
+        "1",
+        "QuarryCrane,QuarryWorkbench08"
+      ],
+      [
+        "3",
+        "3",
+        "2",
+        "CommandTable08,QuarryCompressor"
+      ],
+      [
+        "3",
+        "4",
+        "0",
+        "JungleBivouac08,MineCart"
+      ],
+      [
+        "3",
+        "5",
+        "4",
+        "QuarryCrane,BurntShelter08"
+      ],
+      [
+        "3",
+        "6",
+        "3",
+        "QuarryWorkbench08,CableReel,Sandbags"
+      ],
+      [
+        "4",
+        "0",
+        "2",
+        "CommandTable08,ConcreteBunker"
+      ],
+      [
+        "4",
+        "1",
+        "1",
+        "AirCargoTrolley08,Sandbags"
+      ],
+      [
+        "4",
+        "2",
+        "4",
+        "FieldGenerator,CableReel"
+      ],
+      [
+        "4",
+        "3",
+        "0",
+        "FieldClinic08,ConcreteBunker"
+      ],
+      [
+        "4",
+        "4",
+        "1",
+        "AirCargoTrolley08,CommandTable08"
+      ],
+      [
+        "4",
+        "5",
+        "4",
+        "BurntShelter08,Sandbags"
+      ],
+      [
+        "4",
+        "6",
+        "3",
+        "ConcreteBunker,CommandTable08,Sandbags"
+      ],
+      [
+        "5",
+        "0",
+        "0",
+        "FieldClinic08,AirCargoTrolley08"
+      ],
+      [
+        "5",
+        "1",
+        "1",
+        "FuelStation08,QuarryWorkbench08"
+      ],
+      [
+        "5",
+        "2",
+        "0",
+        "AirCargoTrolley08,JungleBivouac08"
+      ],
+      [
+        "5",
+        "3",
+        "4",
+        "AirCargoTrolley08,BurntShelter08"
+      ],
+      [
+        "5",
+        "4",
+        "1",
+        "FuelStation08,CableReel"
+      ],
+      [
+        "5",
+        "5",
+        "0",
+        "FieldClinic08,CommandTable08"
+      ],
+      [
+        "5",
+        "6",
+        "3",
+        "CommandTable08,AirCargoTrolley08,Sandbags"
+      ]
+    ],
+    "escort_themes": [
+      [
+        "0",
+        "1",
+        "JungleBivouac08"
+      ],
+      [
+        "0",
+        "3",
+        "FieldClinic08"
+      ],
+      [
+        "1",
+        "1",
+        "BoatRepair08"
+      ],
+      [
+        "1",
+        "5",
+        "FieldClinic08"
+      ],
+      [
+        "2",
+        "1",
+        "VillageKitchen08"
+      ],
+      [
+        "2",
+        "2",
+        "MarketStall"
+      ],
+      [
+        "3",
+        "1",
+        "QuarryWorkbench08"
+      ],
+      [
+        "3",
+        "4",
+        "JungleBivouac08"
+      ],
+      [
+        "4",
+        "3",
+        "FieldClinic08"
+      ],
+      [
+        "5",
+        "0",
+        "AirCargoTrolley08"
+      ],
+      [
+        "5",
+        "2",
+        "CommandTable08"
+      ],
+      [
+        "5",
+        "5",
+        "FieldClinic08"
+      ]
+    ],
+    "unique_site_props": [
+      "AirCargoTrolley08",
+      "BoatRepair08",
+      "BridgeWinch",
+      "BurntShelter08",
+      "CableReel",
+      "Clothesline",
+      "CommandTable08",
+      "ConcreteBunker",
+      "FieldClinic08",
+      "FieldGenerator",
+      "FishingNetRack",
+      "FuelStation08",
+      "JungleBivouac08",
+      "MarketStall",
+      "MineCart",
+      "QuarryCompressor",
+      "QuarryCrane",
+      "QuarryWorkbench08",
+      "Sandbags",
+      "StiltHouse",
+      "VillageKitchen08",
+      "VillageStore",
+      "VillageWell",
+      "Watchtower",
+      "barrel_03"
+    ],
+    "weapon_drop_logged_max": 400,
+    "version": "0.9.0",
+    "wall_seconds": 369.32,
+    "route": [
+      "ROUTE_PLAYTEST_PASS elapsed=1136.9 deaths=0 kills=421"
+    ],
+    "ending": [
+      "EXTRACTION_ENDING_COMPLETE boarded=13 total=13 aboard_actors=13 duration=45.03"
+    ],
+    "escorts": [
+      [
+        "0",
+        "1",
+        "1",
+        "1",
+        "272.5"
+      ],
+      [
+        "0",
+        "3",
+        "2",
+        "2",
+        "364.5"
+      ],
+      [
+        "1",
+        "1",
+        "3",
+        "1",
+        "242.9"
+      ],
+      [
+        "1",
+        "5",
+        "4",
+        "2",
+        "451.8"
+      ],
+      [
+        "2",
+        "1",
+        "5",
+        "1",
+        "217.6"
+      ],
+      [
+        "2",
+        "2",
+        "6",
+        "2",
+        "323.4"
+      ],
+      [
+        "3",
+        "1",
+        "7",
+        "1",
+        "281.0"
+      ],
+      [
+        "3",
+        "4",
+        "8",
+        "2",
+        "448.0"
+      ],
+      [
+        "4",
+        "3",
+        "9",
+        "1",
+        "307.8"
+      ],
+      [
+        "5",
+        "0",
+        "10",
+        "1",
+        "332.3"
+      ],
+      [
+        "5",
+        "2",
+        "11",
+        "2",
+        "295.9"
+      ],
+      [
+        "5",
+        "5",
+        "12",
+        "3",
+        "301.6"
+      ]
+    ],
+    "wardrobe": [
+      [
+        "0",
+        "1",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "0",
+        "3",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "1",
+        "1",
+        "1",
+        "Worker06"
+      ],
+      [
+        "1",
+        "5",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "2",
+        "1",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "2",
+        "2",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "3",
+        "1",
+        "1",
+        "Worker06"
+      ],
+      [
+        "3",
+        "4",
+        "1",
+        "Worker06"
+      ],
+      [
+        "4",
+        "3",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "5",
+        "0",
+        "1",
+        "Worker06"
+      ],
+      [
+        "5",
+        "2",
+        "1",
+        "Civilian06"
+      ],
+      [
+        "5",
+        "5",
+        "1",
+        "Civilian06"
+      ]
+    ],
+    "navigation_start_failures": 0,
+    "navigation_no_path": 3,
+    "navigation_collisions": 1,
+    "ally_logs": [
+      "ALLY_SUPPORT_FIRE shots=240 allies=1 target=75",
+      "ALLY_SUPPORT_FIRE shots=280 allies=2 target=57",
+      "ALLY_SUPPORT_FIRE shots=320 allies=3 target=87"
+    ],
+    "user_save_unchanged": true,
+    "vsm_overflow": false,
+    "tactics": {
+      "cover": 109,
+      "peek": 24,
+      "flank": 112,
+      "search": 132,
+      "hold": 1
+    },
+    "heavy_shots": 4,
+    "tactics_summary": [
+      "ENEMY_TACTICS_SUMMARY transitions=622 covers=106 flanks=112 searches=132"
+    ]
+  },
+  "contact_recovery": {
+    "movement_contacts": 1,
+    "all_recovered": true,
+    "criterion": "Moved at least 150 cm from each contact within the next three 20-s simulation position samples, without changing chapter; full campaign and ending passed. Contacts are reported, not treated as zero.",
+    "contacts": [
+      {
+        "contact": "[2026.10.02-23.30.17:536][982]LogTemp: Warning: ROUTE_BLOCKED pos=V(X=-6455.98, Y=-476.01, Z=86.36) move=V(X=-0.27, Y=0.30) actor=StaticMeshActor_2147474878 normal=V(X=1.00) next=V(X=-6080.00, Y=360.00, Z=88.01)",
+        "start": [
+          -6455.98,
+          -476.01,
+          86.36
+        ],
+        "escaped": true,
+        "next_position_samples": [
+          {
+            "line": "[2026.10.02-23.30.21:685][401]LogTemp: Display: ROUTE_DIAGNOSTIC pos=V(X=-6819.08, Y=1500.20, Z=92.66) target=V(X=-8380.00, Y=2060.00, Z=81.53) move=V(X=-0.94, Y=0.34) visible=-1 nearest=1000000000.0 route=1 next=V(X=-8380.00, Y=2060.00, Z=81.98)",
+            "distance_cm": 2009.29
+          }
+        ]
+      }
+    ]
+  },
+  "performance": {
+    "fixed_time_step": false,
+    "requested_window": "1280x720",
+    "default_frame_smoothing_cap": 61,
+    "regions": [
+      {
+        "chapter": 0,
+        "frames": 1020,
+        "skip_startup_frames": 180,
+        "elapsed_sample_seconds": 16.7216177,
+        "mean_frame_ms": 16.393742843137254,
+        "average_fps": 60.99888290114419,
+        "p99_frame_ms": 16.7219,
+        "max_frame_ms": 17.8052
+      },
+      {
+        "chapter": 4,
+        "frames": 1020,
+        "skip_startup_frames": 180,
+        "elapsed_sample_seconds": 16.7215185,
+        "mean_frame_ms": 16.393645588235294,
+        "average_fps": 60.99924477552681,
+        "p99_frame_ms": 16.8051,
+        "max_frame_ms": 18.3585
+      }
+    ],
+    "note": "Two short samples after closing the older menu and stale crash reporter; not whole-campaign FPS or human play-duration proof."
+  },
+  "tested_source_unchanged": true,
+  "video": {
+    "frames": 661,
+    "fps": 30,
+    "resolution": "1280x720",
+    "gameplay": "Normal automated input, fortress, initial first three objectives marked complete, default camera",
+    "audio": "61 actual game sound events mixed with original SFX, ambience and Contact score; not live speaker recording",
+    "full_decode": true
+  },
+  "final_release": false
+}

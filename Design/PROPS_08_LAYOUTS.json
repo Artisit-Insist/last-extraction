@@ -1,0 +1,519 @@
+{
+  "version": "0.8.0",
+  "original_new_props": 8,
+  "refined_existing_props": 1,
+  "models": {
+    "JungleBivouac08": {
+      "triangles": 11964,
+      "vertices": 6082,
+      "bounds_m": [
+        [
+          -2.871999979019165,
+          2.871999979019165
+        ],
+        [
+          -2.187999963760376,
+          2.187999963760376
+        ],
+        [
+          -0.059999994933605194,
+          2.784801721572876
+        ]
+      ]
+    },
+    "FieldClinic08": {
+      "triangles": 8924,
+      "vertices": 4546,
+      "bounds_m": [
+        [
+          -2.6440000534057617,
+          2.6440000534057617
+        ],
+        [
+          -1.959999918937683,
+          1.959999918937683
+        ],
+        [
+          -0.059999994933605194,
+          2.984801769256592
+        ]
+      ]
+    },
+    "BoatRepair08": {
+      "triangles": 6472,
+      "vertices": 3280,
+      "bounds_m": [
+        [
+          -2.0,
+          2.0399999618530273
+        ],
+        [
+          -0.9049999713897705,
+          0.7150000333786011
+        ],
+        [
+          0.0,
+          1.899999976158142
+        ]
+      ]
+    },
+    "VillageKitchen08": {
+      "triangles": 8836,
+      "vertices": 4680,
+      "bounds_m": [
+        [
+          -1.6349999904632568,
+          1.7000001668930054
+        ],
+        [
+          -1.125,
+          1.3350000381469727
+        ],
+        [
+          0.0,
+          1.7250001430511475
+        ]
+      ]
+    },
+    "QuarryWorkbench08": {
+      "triangles": 9668,
+      "vertices": 4904,
+      "bounds_m": [
+        [
+          -2.112499952316284,
+          2.450000047683716
+        ],
+        [
+          -0.9980000257492065,
+          0.6150000095367432
+        ],
+        [
+          0.0,
+          2.2249999046325684
+        ]
+      ]
+    },
+    "CommandTable08": {
+      "triangles": 4068,
+      "vertices": 2088,
+      "bounds_m": [
+        [
+          -1.2999999523162842,
+          2.0374999046325684
+        ],
+        [
+          -0.574999988079071,
+          0.574999988079071
+        ],
+        [
+          0.0,
+          2.549999952316284
+        ]
+      ]
+    },
+    "AirCargoTrolley08": {
+      "triangles": 7668,
+      "vertices": 3890,
+      "bounds_m": [
+        [
+          -2.0,
+          3.3450000286102295
+        ],
+        [
+          -0.949999988079071,
+          0.9499999284744263
+        ],
+        [
+          0.02000001072883606,
+          2.0848019123077393
+        ]
+      ]
+    },
+    "BurntShelter08": {
+      "triangles": 3132,
+      "vertices": 1624,
+      "bounds_m": [
+        [
+          -2.650397539138794,
+          2.5384819507598877
+        ],
+        [
+          -1.7797126770019531,
+          1.7391215562820435
+        ],
+        [
+          -0.023608803749084473,
+          2.2043209075927734
+        ]
+      ]
+    },
+    "FuelStation08": {
+      "triangles": 4892,
+      "vertices": 2456,
+      "bounds_m": [
+        [
+          -2.4000000953674316,
+          3.5820000171661377
+        ],
+        [
+          -1.281999945640564,
+          1.25
+        ],
+        [
+          0.0,
+          2.734999895095825
+        ]
+      ]
+    }
+  },
+  "site_layouts": [
+    [
+      "0",
+      "0",
+      "2",
+      "CommandTable08,Watchtower"
+    ],
+    [
+      "0",
+      "1",
+      "0",
+      "JungleBivouac08,FieldGenerator"
+    ],
+    [
+      "0",
+      "2",
+      "1",
+      "CableReel,CommandTable08"
+    ],
+    [
+      "0",
+      "3",
+      "0",
+      "BurntShelter08,FieldClinic08"
+    ],
+    [
+      "0",
+      "4",
+      "2",
+      "BoatRepair08,FishingNetRack"
+    ],
+    [
+      "0",
+      "5",
+      "1",
+      "QuarryCompressor,CableReel,Watchtower"
+    ],
+    [
+      "0",
+      "6",
+      "3",
+      "JungleBivouac08,Sandbags,CommandTable08"
+    ],
+    [
+      "1",
+      "0",
+      "2",
+      "CommandTable08,FishingNetRack"
+    ],
+    [
+      "1",
+      "1",
+      "0",
+      "BoatRepair08,StiltHouse"
+    ],
+    [
+      "1",
+      "2",
+      "1",
+      "CableReel,QuarryWorkbench08"
+    ],
+    [
+      "1",
+      "3",
+      "5",
+      "BridgeWinch,Sandbags"
+    ],
+    [
+      "1",
+      "4",
+      "4",
+      "BurntShelter08,barrel_03"
+    ],
+    [
+      "1",
+      "5",
+      "0",
+      "FishingNetRack,BoatRepair08,VillageKitchen08"
+    ],
+    [
+      "1",
+      "6",
+      "3",
+      "CommandTable08,Watchtower,CableReel"
+    ],
+    [
+      "2",
+      "0",
+      "2",
+      "VillageStore,MarketStall"
+    ],
+    [
+      "2",
+      "1",
+      "0",
+      "VillageKitchen08,Clothesline,StiltHouse"
+    ],
+    [
+      "2",
+      "2",
+      "0",
+      "MarketStall,MarketStall,VillageWell"
+    ],
+    [
+      "2",
+      "3",
+      "1",
+      "BurntShelter08,Sandbags"
+    ],
+    [
+      "2",
+      "4",
+      "2",
+      "FieldClinic08,VillageKitchen08"
+    ],
+    [
+      "2",
+      "5",
+      "4",
+      "BurntShelter08,MarketStall"
+    ],
+    [
+      "2",
+      "6",
+      "3",
+      "VillageStore,CommandTable08"
+    ],
+    [
+      "3",
+      "0",
+      "1",
+      "QuarryWorkbench08,CableReel"
+    ],
+    [
+      "3",
+      "1",
+      "0",
+      "FieldClinic08,MineCart"
+    ],
+    [
+      "3",
+      "2",
+      "1",
+      "QuarryCrane,QuarryWorkbench08"
+    ],
+    [
+      "3",
+      "3",
+      "2",
+      "CommandTable08,QuarryCompressor"
+    ],
+    [
+      "3",
+      "4",
+      "0",
+      "JungleBivouac08,MineCart"
+    ],
+    [
+      "3",
+      "5",
+      "4",
+      "QuarryCrane,BurntShelter08"
+    ],
+    [
+      "3",
+      "6",
+      "3",
+      "QuarryWorkbench08,CableReel,Sandbags"
+    ],
+    [
+      "4",
+      "0",
+      "2",
+      "CommandTable08,ConcreteBunker"
+    ],
+    [
+      "4",
+      "1",
+      "1",
+      "AirCargoTrolley08,Sandbags"
+    ],
+    [
+      "4",
+      "2",
+      "4",
+      "FieldGenerator,CableReel"
+    ],
+    [
+      "4",
+      "3",
+      "0",
+      "FieldClinic08,ConcreteBunker"
+    ],
+    [
+      "4",
+      "4",
+      "1",
+      "AirCargoTrolley08,CommandTable08"
+    ],
+    [
+      "4",
+      "5",
+      "4",
+      "BurntShelter08,Sandbags"
+    ],
+    [
+      "4",
+      "6",
+      "3",
+      "ConcreteBunker,CommandTable08,Sandbags"
+    ],
+    [
+      "5",
+      "0",
+      "0",
+      "FieldClinic08,AirCargoTrolley08"
+    ],
+    [
+      "5",
+      "1",
+      "1",
+      "FuelStation08,QuarryWorkbench08"
+    ],
+    [
+      "5",
+      "2",
+      "0",
+      "AirCargoTrolley08,JungleBivouac08"
+    ],
+    [
+      "5",
+      "3",
+      "4",
+      "AirCargoTrolley08,BurntShelter08"
+    ],
+    [
+      "5",
+      "4",
+      "1",
+      "FuelStation08,CableReel"
+    ],
+    [
+      "5",
+      "5",
+      "0",
+      "FieldClinic08,CommandTable08"
+    ],
+    [
+      "5",
+      "6",
+      "3",
+      "CommandTable08,AirCargoTrolley08,Sandbags"
+    ]
+  ],
+  "escort_sites": [
+    [
+      "0",
+      "1",
+      "JungleBivouac08"
+    ],
+    [
+      "0",
+      "3",
+      "FieldClinic08"
+    ],
+    [
+      "1",
+      "1",
+      "BoatRepair08"
+    ],
+    [
+      "1",
+      "5",
+      "FieldClinic08"
+    ],
+    [
+      "2",
+      "1",
+      "VillageKitchen08"
+    ],
+    [
+      "2",
+      "2",
+      "MarketStall"
+    ],
+    [
+      "3",
+      "1",
+      "QuarryWorkbench08"
+    ],
+    [
+      "3",
+      "4",
+      "JungleBivouac08"
+    ],
+    [
+      "4",
+      "3",
+      "FieldClinic08"
+    ],
+    [
+      "5",
+      "0",
+      "AirCargoTrolley08"
+    ],
+    [
+      "5",
+      "2",
+      "CommandTable08"
+    ],
+    [
+      "5",
+      "5",
+      "FieldClinic08"
+    ]
+  ],
+  "preview_images": 6,
+  "preview_resolution": [
+    1600,
+    900
+  ],
+  "preview_is_gameplay_completion_test": false,
+  "site_prop_instances": {
+    "CommandTable08": 12,
+    "Watchtower": 3,
+    "JungleBivouac08": 4,
+    "FieldGenerator": 2,
+    "CableReel": 8,
+    "BurntShelter08": 7,
+    "FieldClinic08": 6,
+    "BoatRepair08": 3,
+    "FishingNetRack": 3,
+    "QuarryCompressor": 2,
+    "Sandbags": 8,
+    "StiltHouse": 2,
+    "QuarryWorkbench08": 5,
+    "BridgeWinch": 1,
+    "barrel_03": 1,
+    "VillageKitchen08": 3,
+    "VillageStore": 2,
+    "MarketStall": 4,
+    "Clothesline": 1,
+    "VillageWell": 1,
+    "MineCart": 2,
+    "QuarryCrane": 2,
+    "ConcreteBunker": 3,
+    "AirCargoTrolley08": 6,
+    "FuelStation08": 2
+  },
+  "shelter_theme_count": 8
+}

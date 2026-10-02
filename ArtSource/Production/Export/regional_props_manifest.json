@@ -1,0 +1,558 @@
+{
+  "FishingCanoe": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.18000000715255737,
+          0.10999999940395355,
+          0.05000000074505806,
+          1.0
+        ],
+        "roughness": 0.8700000047683716,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      6.0,
+      1.3200000524520874,
+      0.8527510166168213
+    ]
+  },
+  "RiverDock": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.18000000715255737,
+          0.10999999940395355,
+          0.05000000074505806,
+          1.0
+        ],
+        "roughness": 0.8700000047683716,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Canvas_Tan",
+        "base": [
+          0.3799999952316284,
+          0.2800000011920929,
+          0.11999999731779099,
+          1.0
+        ],
+        "roughness": 0.9800000190734863,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      6.399999618530273,
+      2.299999952316284,
+      2.6500000953674316
+    ]
+  },
+  "FishingNetRack": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.18000000715255737,
+          0.10999999940395355,
+          0.05000000074505806,
+          1.0
+        ],
+        "roughness": 0.8700000047683716,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Canvas_Tan",
+        "base": [
+          0.3799999952316284,
+          0.2800000011920929,
+          0.11999999731779099,
+          1.0
+        ],
+        "roughness": 0.9800000190734863,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      2.630000114440918,
+      0.8700000047683716,
+      2.200000047683716
+    ]
+  },
+  "VillageWell": {
+    "materials": [
+      {
+        "name": "Well_Stone",
+        "base": [
+          0.3100000023841858,
+          0.30000001192092896,
+          0.23999999463558197,
+          1.0
+        ],
+        "roughness": 0.949999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.18000000715255737,
+          0.10999999940395355,
+          0.05000000074505806,
+          1.0
+        ],
+        "roughness": 0.8700000047683716,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Canvas_Tan",
+        "base": [
+          0.3799999952316284,
+          0.2800000011920929,
+          0.11999999731779099,
+          1.0
+        ],
+        "roughness": 0.9800000190734863,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Weathered_Iron",
+        "base": [
+          0.11999999731779099,
+          0.15000000596046448,
+          0.12999999523162842,
+          1.0
+        ],
+        "roughness": 0.6399999856948853,
+        "metallic": 0.550000011920929,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      3.299999952316284,
+      2.739919900894165,
+      3.388392210006714
+    ]
+  },
+  "MarketStall": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.18000000715255737,
+          0.10999999940395355,
+          0.05000000074505806,
+          1.0
+        ],
+        "roughness": 0.8700000047683716,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Produce_Green",
+        "base": [
+          0.12999999523162842,
+          0.25999999046325684,
+          0.07000000029802322,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Canvas_Tan",
+        "base": [
+          0.3799999952316284,
+          0.2800000011920929,
+          0.11999999731779099,
+          1.0
+        ],
+        "roughness": 0.9800000190734863,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Produce_Ochre",
+        "base": [
+          0.5799999833106995,
+          0.23999999463558197,
+          0.03500000014901161,
+          1.0
+        ],
+        "roughness": 0.699999988079071,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      3.7250001430511475,
+      2.0920047760009766,
+      2.6262145042419434
+    ]
+  },
+  "Clothesline": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.18000000715255737,
+          0.10999999940395355,
+          0.05000000074505806,
+          1.0
+        ],
+        "roughness": 0.8700000047683716,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Canvas_Tan",
+        "base": [
+          0.3799999952316284,
+          0.2800000011920929,
+          0.11999999731779099,
+          1.0
+        ],
+        "roughness": 0.9800000190734863,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Washed_Cloth_Cream",
+        "base": [
+          0.4699999988079071,
+          0.4300000071525574,
+          0.33000001311302185,
+          1.0
+        ],
+        "roughness": 1.0,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Washed_Cloth_Blue",
+        "base": [
+          0.10000000149011612,
+          0.1899999976158142,
+          0.23999999463558197,
+          1.0
+        ],
+        "roughness": 1.0,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      4.920000076293945,
+      0.11999999731779099,
+      2.4000000953674316
+    ]
+  },
+  "CableReel": {
+    "materials": [
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.18000000715255737,
+          0.10999999940395355,
+          0.05000000074505806,
+          1.0
+        ],
+        "roughness": 0.8700000047683716,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      },
+      {
+        "name": "Field_Rubber",
+        "base": [
+          0.017999999225139618,
+          0.01899999938905239,
+          0.01600000075995922,
+          1.0
+        ],
+        "roughness": 0.9200000166893005,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Weathered_Iron",
+        "base": [
+          0.11999999731779099,
+          0.15000000596046448,
+          0.12999999523162842,
+          1.0
+        ],
+        "roughness": 0.6399999856948853,
+        "metallic": 0.550000011920929,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      1.6299998760223389,
+      1.8200000524520874,
+      1.820000171661377
+    ]
+  },
+  "MineCart": {
+    "materials": [
+      {
+        "name": "Mine_Rust",
+        "base": [
+          0.2199999988079071,
+          0.0949999988079071,
+          0.029999999329447746,
+          1.0
+        ],
+        "roughness": 0.8799999952316284,
+        "metallic": 0.5,
+        "textures": {}
+      },
+      {
+        "name": "Weathered_Iron",
+        "base": [
+          0.11999999731779099,
+          0.15000000596046448,
+          0.12999999523162842,
+          1.0
+        ],
+        "roughness": 0.6399999856948853,
+        "metallic": 0.550000011920929,
+        "textures": {}
+      },
+      {
+        "name": "Field_Timber",
+        "base": [
+          0.18000000715255737,
+          0.10999999940395355,
+          0.05000000074505806,
+          1.0
+        ],
+        "roughness": 0.8700000047683716,
+        "metallic": 0.0,
+        "textures": {
+          "wooden_crate_02_diff_2k.jpg": "/Users/sanghyunhwang/Documents/Codex/2026-10-02/new-chat/outputs/LastExtraction/ArtSource/Production/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg"
+        }
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      7.0,
+      2.200000047683716,
+      1.6556220054626465
+    ]
+  },
+  "QuarryCompressor": {
+    "materials": [
+      {
+        "name": "Equipment_Yellow",
+        "base": [
+          0.4300000071525574,
+          0.28999999165534973,
+          0.03999999910593033,
+          1.0
+        ],
+        "roughness": 0.6000000238418579,
+        "metallic": 0.5,
+        "textures": {}
+      },
+      {
+        "name": "Field_Rubber",
+        "base": [
+          0.017999999225139618,
+          0.01899999938905239,
+          0.01600000075995922,
+          1.0
+        ],
+        "roughness": 0.9200000166893005,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Weathered_Iron",
+        "base": [
+          0.11999999731779099,
+          0.15000000596046448,
+          0.12999999523162842,
+          1.0
+        ],
+        "roughness": 0.6399999856948853,
+        "metallic": 0.550000011920929,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      4.369999885559082,
+      1.6100000143051147,
+      1.4100000858306885
+    ]
+  },
+  "RadarArray": {
+    "materials": [
+      {
+        "name": "Radar_Olive",
+        "base": [
+          0.10000000149011612,
+          0.15000000596046448,
+          0.07999999821186066,
+          1.0
+        ],
+        "roughness": 0.6899999976158142,
+        "metallic": 0.3499999940395355,
+        "textures": {}
+      },
+      {
+        "name": "Weathered_Iron",
+        "base": [
+          0.11999999731779099,
+          0.15000000596046448,
+          0.12999999523162842,
+          1.0
+        ],
+        "roughness": 0.6399999856948853,
+        "metallic": 0.550000011920929,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      2.9163310527801514,
+      1.7650479078292847,
+      4.358165740966797
+    ]
+  },
+  "AirDefenseLauncher": {
+    "materials": [
+      {
+        "name": "Radar_Olive",
+        "base": [
+          0.10000000149011612,
+          0.15000000596046448,
+          0.07999999821186066,
+          1.0
+        ],
+        "roughness": 0.6899999976158142,
+        "metallic": 0.3499999940395355,
+        "textures": {}
+      },
+      {
+        "name": "Field_Rubber",
+        "base": [
+          0.017999999225139618,
+          0.01899999938905239,
+          0.01600000075995922,
+          1.0
+        ],
+        "roughness": 0.9200000166893005,
+        "metallic": 0.0,
+        "textures": {}
+      },
+      {
+        "name": "Weathered_Iron",
+        "base": [
+          0.11999999731779099,
+          0.15000000596046448,
+          0.12999999523162842,
+          1.0
+        ],
+        "roughness": 0.6399999856948853,
+        "metallic": 0.550000011920929,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      3.4000000953674316,
+      2.4800000190734863,
+      2.6532955169677734
+    ]
+  },
+  "FuelStation": {
+    "materials": [
+      {
+        "name": "Fuel_Silver",
+        "base": [
+          0.3499999940395355,
+          0.36000001430511475,
+          0.3199999928474426,
+          1.0
+        ],
+        "roughness": 0.41999998688697815,
+        "metallic": 0.699999988079071,
+        "textures": {}
+      },
+      {
+        "name": "Weathered_Iron",
+        "base": [
+          0.11999999731779099,
+          0.15000000596046448,
+          0.12999999523162842,
+          1.0
+        ],
+        "roughness": 0.6399999856948853,
+        "metallic": 0.550000011920929,
+        "textures": {}
+      },
+      {
+        "name": "Fuel_Red",
+        "base": [
+          0.3400000035762787,
+          0.04500000178813934,
+          0.019999999552965164,
+          1.0
+        ],
+        "roughness": 0.6000000238418579,
+        "metallic": 0.5,
+        "textures": {}
+      },
+      {
+        "name": "Field_Rubber",
+        "base": [
+          0.017999999225139618,
+          0.01899999938905239,
+          0.01600000075995922,
+          1.0
+        ],
+        "roughness": 0.9200000166893005,
+        "metallic": 0.0,
+        "textures": {}
+      }
+    ],
+    "source": "Original authored geometry",
+    "size_m": [
+      5.982000350952148,
+      2.5320000648498535,
+      2.734999895095825
+    ]
+  }
+}

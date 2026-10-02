@@ -1,0 +1,65 @@
+[
+  {
+    "file": "Arrow.wav",
+    "seconds": 0.32,
+    "channels": 1,
+    "sample_rate": 32000,
+    "peak_dbfs": -1.88,
+    "rms_dbfs": -22.13,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "Explosion.wav",
+    "seconds": 2.4,
+    "channels": 1,
+    "sample_rate": 32000,
+    "peak_dbfs": -0.72,
+    "rms_dbfs": -23.74,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "Forest.wav",
+    "seconds": 64.0,
+    "channels": 2,
+    "sample_rate": 32000,
+    "peak_dbfs": -16.1,
+    "rms_dbfs": -30.02,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "Hit.wav",
+    "seconds": 0.24,
+    "channels": 1,
+    "sample_rate": 32000,
+    "peak_dbfs": -2.49,
+    "rms_dbfs": -20.66,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "JungleScore.wav",
+    "seconds": 192.0,
+    "channels": 2,
+    "sample_rate": 32000,
+    "peak_dbfs": -11.95,
+    "rms_dbfs": -28.37,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "Pickup.wav",
+    "seconds": 0.8,
+    "channels": 1,
+    "sample_rate": 32000,
+    "peak_dbfs": -10.7,
+    "rms_dbfs": -23.64,
+    "full_pcm_read": "PASS"
+  },
+  {
+    "file": "Rifle.wav",
+    "seconds": 0.32,
+    "channels": 1,
+    "sample_rate": 32000,
+    "peak_dbfs": -0.72,
+    "rms_dbfs": -22.09,
+    "full_pcm_read": "PASS"
+  }
+]
